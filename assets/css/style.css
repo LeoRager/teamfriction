@@ -30,7 +30,7 @@ body {
 .items ul {
     list-style: none;
     display: inline-block;
-    float: centre;
+    float: left;
     height: 100%;
     margin:0;
 }
