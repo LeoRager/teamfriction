@@ -39,9 +39,6 @@ body {
     margin:0;
 }
 
-.items_right ul {
-  float:right !important;
-}
 
 .items ul li {
     display: inline-block;
