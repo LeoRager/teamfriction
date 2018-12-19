@@ -10,11 +10,12 @@ body {
 a {
   display: inline-block;
   text-decoration: none !important;
+  color: black;
 }
 
 a:hover {
   background-color: #ad510f;
-  color: white;
+  color: white !important;
 }
 
 .menu {
