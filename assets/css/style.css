@@ -43,7 +43,7 @@ body {
     display: inline-block;
     width: 125px;
     text-align: center;
-    padding: 40px 5%;
+    padding: 40px 0;
     font-size: 20px;
     height: 20px;
     vertical-align: baseline;
