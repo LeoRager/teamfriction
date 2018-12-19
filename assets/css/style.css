@@ -15,6 +15,9 @@ body {
 .logo {
     display: inline-block;
     height: 100px;
+    position: fixed;
+    left: 50%;
+    margin-left: -100px;
 }
 
 .logo img {
