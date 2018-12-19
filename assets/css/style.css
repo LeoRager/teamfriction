@@ -8,6 +8,7 @@ body {
 }
 
 a {
+  display: inline-block;
   text-decoration: none !important;
   color: black;
 }
