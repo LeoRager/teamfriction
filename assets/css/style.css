@@ -13,6 +13,7 @@ a {
 }
 
 a:hover {
+  display: inline-block;
   color: white;
 }
 
