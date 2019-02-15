@@ -65,3 +65,7 @@ a:hover {
   background-color: #ad510f;
   color: white !important;
 }
+
+.text {
+  padding: 10%;
+}
