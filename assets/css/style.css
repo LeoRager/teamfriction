@@ -15,7 +15,7 @@ body {
 
 .logo {
     display: inline-block;
-    height: 100px;
+    height: 100px !important;
     position: fixed;
     left: 50%;
     margin-left: -100px;
@@ -44,7 +44,7 @@ body {
     display: inline-block;
     width: 125px;
     text-align: center;
-    padding: 40px 0;
+    padding: 45px 0;
     font-size: 20px;
     height: 20px;
     vertical-align: baseline;
